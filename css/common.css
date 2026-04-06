@@ -12,3 +12,18 @@ body {
   color: #212121;
   line-height: 1.5;
 }
+body ul {
+  list-style: none;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+ul a {
+  text-decoration: none;
+}
+
+ul a:hover {
+  color: #4e75ff;
+}
